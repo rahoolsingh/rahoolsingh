@@ -1,3 +1,4 @@
+<!--
 <div style="padding: 50px 10px">
   <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" style="margin: auto; text-align:center; border-radius: 10px;">
@@ -79,3 +80,4 @@
     Designed by Rahul Kumar Singh (veer) 🚀
   </p>
 </div>
+-->
