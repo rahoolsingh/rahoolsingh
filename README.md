@@ -1,6 +1,6 @@
 <div style="padding: 50px 10px">
   <p align="center">
-    <img src="\https://raw.githubusercontent.com/rahoolsingh/rahoolsingh/main/mario-developer.gif" style="margin: auto; text-align:center; border-radius: 10px;">
+    <img src="https://raw.githubusercontent.com/rahoolsingh/rahoolsingh/main/mario-developer.gif" style="margin: auto; text-align:center; border-radius: 10px;">
   </p>
   <h1 align="center">Hi there! 👋 I'm Veer, a passionate developer.</h1>
   <h3 align="center">I love working with a free mind and finding peace in my surroundings. ✨</h3>
