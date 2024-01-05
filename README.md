@@ -1,4 +1,3 @@
-<!--
 <div style="padding: 50px 10px">
   <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" style="margin: auto; text-align:center; border-radius: 10px;">
@@ -74,11 +73,9 @@
   </p>
 
   <p align="center"> 
-    "Code is like humor. When you have to explain it, it’s bad." 😄
+    "Code is like humour. When you have to explain it, it’s bad." 😄
   </p>
   <p align="center"> 
     Designed by Rahul Kumar Singh (veer) 🚀
   </p>
 </div>
--->
-<marquee><h1>Hi Coder, welcome to my profile.</h1></marquee>
