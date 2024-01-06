@@ -29,3 +29,8 @@
 </ul>
 
 <p>Feel free to reach out to me if you have any questions, want to collaborate on a project, or just to say hi! I'm always excited to connect with fellow developers and tech enthusiasts. 😊</p>
+
+<img width="100px" align="right" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<p align="left">
+    🎵 You can listen to my favorite tracks <a href="https://open.spotify.com/playlist/7wqqSlsXur3KISZ5vxyNTS">here</a>.
+</p>
