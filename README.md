@@ -20,6 +20,7 @@
     <li><strong>Experience:</strong> Consultant Software Developer & Freelancer</li>
 </ul>
 -->
+<!--
 <h2>🔭 I’m Currently Working On</h2>
 <p>I’m constantly learning and exploring new technologies, particularly diving deeper into Web Application
     Development.</p>
