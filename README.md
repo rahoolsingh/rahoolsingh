@@ -4,10 +4,13 @@
 
 <!-- <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&random=false&width=435&lines=Namaste%2C+I+am+Rahul+Singh;aka+Veer+Rajpoot" /></a> -->
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&random=false&width=435&lines=Namaste%2C+I+am+Rahul+Singh;aka+Veer+Rajpoot)](https://git.io/typing-svg)
-
+-->
+<!--
 <img align="right" width="300px" src="black-dev.gif" />
-
+-->
+<!--
 
 <h1>🙏🏻 Namaste! I'm Rahul Singh Aka Veer Rajpoot</h1>
 <!--
