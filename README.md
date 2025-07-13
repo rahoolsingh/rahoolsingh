@@ -19,10 +19,11 @@
     <li><strong>Frameworks:</strong> express, node, react</li>
     <li><strong>Experience:</strong> Consultant Software Developer & Freelancer</li>
 </ul>
-<!--
+-->
 <h2>🔭 I’m Currently Working On</h2>
 <p>I’m constantly learning and exploring new technologies, particularly diving deeper into Web Application
     Development.</p>
+-->
 <!--
 <h2>💬 Let's Connect!</h2>
 <ul>
@@ -31,14 +32,17 @@
     <li>Instagram: <a href="https://linkedin.com/rahoolsingh">the_veer_rajpoot</a></li>
     <li>📧 Mailbox: <a href="mailto:rahoolsingh.inc@gmail.com">rahoolsingh.inc@gmail.com</a></li>
 </ul>
+-->
 <!--
 <p>Feel free to reach out to me if you have any questions, want to collaborate on a project, or just to say hi! I'm always excited to connect with fellow developers and tech enthusiasts. 😊</p>
+-->
 <!--
 <img width="100px" align="right" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<!--
 <p align="left">
     🎵 You can listen to my favorite tracks <a href="https://open.spotify.com/playlist/7wqqSlsXur3KISZ5vxyNTS">here</a>.
 </p>
-
+-->
 
 Instagram: <a href="https://instagram.com/cosmonaut.dev">cosmonaut.dev <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a0542437-c26a-4f20-b952-520f19e50864" />
 
