@@ -48,5 +48,7 @@
 </p>
 -->
 
-<h2>Instagram: <a href="https://instagram.com/cosmonaut.dev">cosmonaut.dev <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a0542437-c26a-4f20-b952-520f19e50864" /></a></h2>
+<h2>Instagram: <a href="https://instagram.com/cosmonaut.dev">cosmonaut.dev <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/9d91d847-795a-4351-8a49-5c5b9e62b6d3" /></a></h2>
+
+
 
